@@ -1,4 +1,4 @@
-# Covid19Traker
+# Covid19Trakker
  This Application uses the JSON data from the api ulr "https://disease.sh/v2/all" and and Create a list of all countries using custom listview and represents a Pie Chart for Graphical Representation.
  
  Default Page Represents Worldwide data.
